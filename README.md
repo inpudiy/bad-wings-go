@@ -6,6 +6,8 @@
 # Bad Wings: Go
 Wireless "Pocket" "Sized" "Ergonomic" "Keyboard"
 
+> This is a Go version forked from [Bad Wings by Hazel's Garage](https://github.com/hazels-garage/bad-wings/tree/master/go).
+
 ![Bad Wings: Go - top view](images/bad-wings-go.jpg)
 
 # Features
